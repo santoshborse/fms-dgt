@@ -38,6 +38,7 @@ When using the IBM GenAI API, you need to:
 GENAI_KEY=<genai key goes here>
 GENAI_API=<genai api goes here>
 ```
+You can get your GenAI credentials [here](https://bam.res.ibm.com/).
 
 2. Install GenAI dependencies as follows:
 
